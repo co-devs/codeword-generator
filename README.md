@@ -16,6 +16,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+* [PurpleBooth](https://github.com/PurpleBooth) - For the README guide.
 * [Asim Ihsan](https://github.com/asimihsan) - gave me the inspiration for forming the codewords as two nouns or an adjective and a noun.  Also for pointing out that the noun-noun combination seems to occur more often.
 * [Noun List](http://www.desiquintans.com/downloads/nounlist/nounlist.txt)
 * [Adjective List](https://www.talkenglish.com/vocabulary/top-500-adjectives.aspx)
