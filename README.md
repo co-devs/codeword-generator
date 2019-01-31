@@ -1,1 +1,22 @@
 # codeword-generator
+
+Using three wordlists, this project will generate a two word codeword for project naming.
+
+## Getting Started
+
+This project requires Python 3, but could easily be ported to python 2 (there is only one print statement to change).  Download all files and run!
+
+## Authors
+
+* **Mike Devens** - *Initial work* - [co-devs](https://github.com/co-devs)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* [Asim Ihsan](https://github.com/asimihsan) - gave me the inspiration for forming the codewords as two nouns or an adjective and a noun.  Also for pointing out that the noun-noun combination seems to occur more often.
+* [Noun List](http://www.desiquintans.com/downloads/nounlist/nounlist.txt)
+* [Adjective List](https://www.talkenglish.com/vocabulary/top-500-adjectives.aspx)
+* [Verb List](https://www.linguasorb.com/english/verbs/most-common-verbs/1)
