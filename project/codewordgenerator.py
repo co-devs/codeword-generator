@@ -178,10 +178,16 @@ def main():
     parser.add_argument("-s", "--style", default='',
                         choices=['nn', 'an', 'vn', ''],
                         help="generate a noun-noun style code word")
+    parser.add_argument("--nounlist", default='nouns.txt', type=str,
+                        help="noun wordlist file")
+    parser.add_argument("--adjlist", default='adjs.txt', type=str,
+                        help="adjective wordlist file")
+    parser.add_argument("--verblist", default='verbs.txt', type=str,
+                        help="verb wordlist file")
     args = parser.parse_args()
 
     for i in range(args.number):
-        print(gen_code("nouns.txt", "adjs.txt", "verbs.txt", args.delimiter,
+        print(gen_code(args.nounlist, args.adjlist, args.verblist, args.delimiter,
                        args.style))
 
 
