@@ -43,7 +43,7 @@ def gen_code(nfile, afile,vfile):
 		word2 = get_noun(nfile).upper()
 		code = word1 + word2
 		return code
-	elif num % 3 == 1:
+	elif num % 5 == 1:
 		# (a,n)
 		word1 = get_adj(afile).upper()
 		word2 = get_noun(nfile).upper()
