@@ -29,6 +29,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
   * Option to specify other files
   * Option to specify nounnoun, adjectivenoun, or verbnoun
   * Option to include word separators, like ' ' or '-'
-  * Better wordlists, possibly with more organization into categories
+* Better wordlists, possibly with more organization into categories
   * If better organization, then allow specification of categories
-  * GUI
+* GUI
