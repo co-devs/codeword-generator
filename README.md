@@ -21,3 +21,12 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * [Noun List](http://www.desiquintans.com/downloads/nounlist/nounlist.txt)
 * [Adjective List](https://www.talkenglish.com/vocabulary/top-500-adjectives.aspx)
 * [Verb List](https://www.linguasorb.com/english/verbs/most-common-verbs/1)
+
+## Next Steps
+
+* Add flags
+  * Option to generate more than one codeword
+  * Option to specify other files
+  * Option to specify nounnoun, adjectivenoun, or verbnoun
+  * Option to include word separators, like ' ' or '-'
+  * Better wordlists, possibly with more organization
